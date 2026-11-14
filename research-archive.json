@@ -1,0 +1,61 @@
+{
+  "description": "Prior Culture Scout research archive. Historical listings are retained for editorial continuity, not shown as upcoming events.",
+  "source": "Andys_SE_London_Culture_Scout_7-29_Nov_2026.pdf and follow-up comedy searches",
+  "pastEvents": [
+    {
+      "title": "The Horne Section: Work in progress",
+      "date": "2026-11-12",
+      "venue": "The Albany, Deptford",
+      "category": "Comedy",
+      "ageGuidance": "12+",
+      "price": "£20–£22",
+      "url": "https://www.thealbany.org.uk/events/horne-section",
+      "note": "Already finished; useful model for family-suitable intelligent comedy."
+    },
+    {
+      "title": "Selecting a Ghost",
+      "date": "2026-11-07",
+      "venue": "Stanley Arts, South Norwood",
+      "category": "Theatre"
+    },
+    {
+      "title": "Heidi Vogel",
+      "date": "2026-11-12",
+      "venue": "Stanley Arts, South Norwood",
+      "category": "Music"
+    },
+    {
+      "title": "Norman Jay MBE",
+      "date": "2026-11-13",
+      "venue": "Stanley Arts, South Norwood",
+      "category": "Music"
+    },
+    {
+      "title": "ANDALUZA",
+      "date": "2026-11-14",
+      "venue": "Charlton House",
+      "category": "Music"
+    }
+  ],
+  "watchlist": {
+    "comedians": [
+      "The Horne Section",
+      "Alex Horne",
+      "Bill Bailey",
+      "Romesh Ranganathan",
+      "Alan Carr",
+      "Radio 4 comedians"
+    ],
+    "venues": [
+      "The Albany",
+      "Jazzlive at the Crypt",
+      "Jack Studio Theatre",
+      "Stanley Arts",
+      "Greenwich Theatre",
+      "Cutty Sark",
+      "Blackheath Halls"
+    ],
+    "familyPreference": "Suitable for a 12-year-old; avoid comedy pitched at much younger children",
+    "editorialPreference": "Intelligent comedy, jazz, immersive and unusual local cultural experiences; within approximately 30 minutes of Honor Oak Park, wider London for standout comedy."
+  }
+}
