@@ -1,7 +1,7 @@
 {
-  "issue": "CULTURE SCOUT / 15 NOVEMBER 2026",
-  "range": "VERIFIED DISCOVERIES · 15 NOVEMBER – 14 DECEMBER 2026",
-  "notice": "Updated 15 November 2026. Listings are selected from organiser pages with confirmed event dates and links. Prices or age guidance are shown only when published or clearly indicated; check booking pages for current availability. Recurring events may have restricted session dates; not every day in a displayed range is a performance date. 'Check organiser' means the detail was not independently verified.",
+  "issue": "15 November 2026 · expanded edition",
+  "range": "UPCOMING CULTURE · NOVEMBER–DECEMBER 2026",
+  "notice": "Dates and advertised prices are based on organiser listings checked 15 November 2026. Where age guidance or price is not published, verify directly before booking.",
   "events": [
     {
       "date": "2026-10-20",
@@ -155,6 +155,42 @@
       "scheduleUnverified": true
     },
     {
+      "id": "2026-11-15-free-creative-workshops-scripting",
+      "date": "2026-11-17",
+      "title": "Free Creative Workshops: Scripting",
+      "venue": "The Albany",
+      "area": "Deptford",
+      "category": "Art",
+      "price": "Free",
+      "url": "https://www.thealbany.org.uk/events/caya-creative-workshops",
+      "sourceUrl": "https://www.thealbany.org.uk/events/caya-creative-workshops",
+      "description": "Practical screen and stage scriptwriting for young people, including dialogue and improvisation.",
+      "note": "Registration through Come As You Are required.",
+      "minAge": 11,
+      "family": true,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true,
+      "startTime": "16:00"
+    },
+    {
+      "id": "2026-11-15-club-bananas-festive-making-workshop",
+      "date": "2026-11-18",
+      "title": "Club Bananas: Festive Making Workshop",
+      "venue": "Peckham Levels",
+      "area": "Peckham",
+      "category": "Art",
+      "price": "£8–£10",
+      "url": "https://peckhamlevels.org/events/",
+      "sourceUrl": "https://peckhamlevels.org/events/",
+      "description": "Hands-on festive making workshop, materials included. Organiser describes it as open to all; specific child admission rules not stated.",
+      "note": "Age suitability for under-18s not explicitly confirmed; check before booking.",
+      "minAge": 18,
+      "family": false,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true,
+      "startTime": "18:30"
+    },
+    {
       "date": "2026-11-19",
       "title": "Hokusai Paint and Sip",
       "venue": "Dulwich Picture Gallery",
@@ -257,7 +293,7 @@
       "featured": true,
       "sourceUrl": "https://www.thealbany.org.uk/events/jazz-saturdays",
       "id": "2026-11-21-free-jazz-saturdays",
-      "endDate": "2026-11-21",
+      "endDate": "2026-12-05",
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
       "hiddenGem": false,
@@ -265,7 +301,17 @@
       "verdict": "Atmospheric, adventurous music in a distinctive local setting.",
       "linkStatus": "details",
       "startTime": "13:00",
-      "endTime": "14:00"
+      "endTime": "14:00",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "startTime": "13:00"
+        },
+        {
+          "date": "2026-12-05",
+          "startTime": "13:00"
+        }
+      ]
     },
     {
       "date": "2026-11-21",
@@ -314,6 +360,24 @@
       "linkStatus": "details",
       "startTime": "20:00",
       "endTime": "23:00"
+    },
+    {
+      "id": "2026-11-15-once-upon-a-time-revisited-stories-through-a-gender-lens",
+      "date": "2026-11-21",
+      "title": "Once Upon a Time Revisited: Stories Through a Gender Lens",
+      "venue": "Deptford Lounge",
+      "area": "Deptford",
+      "category": "Art",
+      "price": "Free",
+      "url": "https://www.thealbany.org.uk/events/sheroes-fairy-tale-event",
+      "sourceUrl": "https://www.thealbany.org.uk/events/sheroes-fairy-tale-event",
+      "description": "Interactive family storytelling and art examining how fairy tales shape gender roles.",
+      "note": "Check booking and availability with the organiser.",
+      "minAge": 9,
+      "family": true,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true,
+      "startTime": "11:30"
     },
     {
       "date": "2026-11-24",
@@ -366,6 +430,23 @@
       "endTime": "22:15"
     },
     {
+      "id": "2026-11-15-co-create-mixed-media-exploration",
+      "date": "2026-11-25",
+      "title": "Co-Create: Mixed Media Exploration",
+      "venue": "The Albany",
+      "area": "Deptford",
+      "category": "Art",
+      "price": "Free",
+      "url": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "sourceUrl": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "description": "Creative workshop exploring mixed media, textures and materials.",
+      "note": "Age guidance and booking requirements not confirmed; check organiser.",
+      "minAge": 18,
+      "family": false,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true
+    },
+    {
       "date": "2026-11-28",
       "title": "Japanese Woodblock Printmaking",
       "venue": "Dulwich Picture Gallery",
@@ -413,28 +494,56 @@
       "startTime": "12:00"
     },
     {
-      "date": "2026-12-05",
-      "title": "Free Jazz Saturdays",
-      "venue": "The Albany",
+      "id": "2026-11-15-just-write-it-",
+      "date": "2026-11-30",
+      "title": "Just Write It!",
+      "venue": "Deptford Lounge",
       "area": "Deptford",
-      "category": "Music",
-      "price": "Free",
-      "url": "https://www.thealbany.org.uk/events/jazz-saturdays",
-      "description": "Trinity Laban alumni play a free lunchtime jazz session.",
-      "note": "1pm–2pm; all ages.",
-      "family": true,
-      "featured": true,
-      "sourceUrl": "https://www.thealbany.org.uk/events/jazz-saturdays",
-      "id": "2026-12-05-free-jazz-saturdays",
-      "endDate": "2026-12-05",
+      "category": "Art",
+      "price": "£3–£10",
+      "url": "https://www.thealbany.org.uk/events/just-write-it-26",
+      "sourceUrl": "https://www.thealbany.org.uk/events/just-write-it-26",
+      "description": "Two-hour writing and feedback group with Ella Dorman-Gajic.",
+      "note": "Check booking and availability with the organiser.",
+      "minAge": 16,
+      "family": false,
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
-      "hiddenGem": false,
-      "minAge": 0,
-      "verdict": "Atmospheric, adventurous music in a distinctive local setting.",
-      "linkStatus": "details",
-      "startTime": "13:00",
-      "endTime": "14:00"
+      "startTime": "18:30"
+    },
+    {
+      "id": "2026-11-15-kae-kurd-s-comedy-club",
+      "date": "2026-12-02",
+      "title": "Kae Kurd's Comedy Club",
+      "venue": "Up the Creek",
+      "area": "Greenwich",
+      "category": "Comedy",
+      "price": "Check organiser",
+      "url": "https://up-the-creek.com/articles/kae-kurd-comedy-club-up-the-creek",
+      "sourceUrl": "https://up-the-creek.com/articles/kae-kurd-comedy-club-up-the-creek",
+      "description": "Kae Kurd's rotating stand-up comedy night. December residency date confirmed; ticket price and age policy not established.",
+      "note": "Date confirmed in venue article; check the live ticket page for price, start time and admission age.",
+      "minAge": 18,
+      "family": false,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true
+    },
+    {
+      "id": "2026-11-15-co-create-web-design-fundamentals",
+      "date": "2026-12-02",
+      "title": "Co-Create: Web Design Fundamentals",
+      "venue": "The Albany",
+      "area": "Deptford",
+      "category": "Art",
+      "price": "Free",
+      "url": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "sourceUrl": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "description": "Creative web design workshop covering structure, visual design and accessibility.",
+      "note": "Age guidance and booking requirements not confirmed; check organiser.",
+      "minAge": 18,
+      "family": false,
+      "verifiedAt": "2026-11-15",
+      "newThisEdition": true
     },
     {
       "date": "2026-12-06",
