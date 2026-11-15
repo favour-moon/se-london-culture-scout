@@ -457,17 +457,19 @@
       "price": "Check tickets",
       "url": "https://www.alwaysbecomedy.com/event-details/always-be-comedy-ed-gamble-fresh-hell-tour-preview-kennington",
       "description": "Preview of Ed Gamble's new stand-up show.",
-      "note": "The organiser confirms the date and venue. Start time and the booking page could not be verified.",
+      "note": "The organiser marks this performance sold out.",
       "family": false,
       "featured": false,
-      "sourceUrl": "https://www.alwaysbecomedy.com/tickets",
+      "sourceUrl": "https://www.alwaysbecomedy.com/event-details/always-be-comedy-ed-gamble-fresh-hell-tour-preview-kennington",
       "id": "2026-11-25-ed-gamble-fresh-hell-tour-preview",
       "endDate": "2026-11-25",
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
       "hiddenGem": false,
       "minAge": null,
-      "linkStatus": "link-unverified"
+      "linkStatus": "details",
+      "startTime": "20:00",
+      "endTime": "21:00"
     },
     {
       "date": "2026-11-26",
@@ -548,10 +550,10 @@
       "price": "Check tickets",
       "url": "https://www.alwaysbecomedy.com/event-details/always-be-comedy-harry-hill-esther-manito-eric-rushton-balham",
       "description": "A superb bill for lovers of eccentric, inventive British stand-up.",
-      "note": "The organiser confirms the date and venue. The published start time is from Chortle. The booking page could not be verified.",
+      "note": "Check the organiser’s event page for ticket availability and age guidance.",
       "family": false,
       "featured": true,
-      "sourceUrl": "https://www.alwaysbecomedy.com/tickets",
+      "sourceUrl": "https://www.alwaysbecomedy.com/event-details/always-be-comedy-harry-hill-esther-manito-eric-rushton-balham",
       "id": "2026-11-27-harry-hill-esther-manito-and-eric-rushton",
       "endDate": "2026-11-27",
       "verifiedAt": "2026-11-15",
@@ -559,8 +561,9 @@
       "hiddenGem": false,
       "minAge": null,
       "verdict": "An intriguing alternative to a conventional big-room comedy night.",
-      "linkStatus": "link-unverified",
-      "startTime": "20:00"
+      "linkStatus": "tickets",
+      "startTime": "20:00",
+      "endTime": "22:00"
     },
     {
       "date": "2026-11-28",
