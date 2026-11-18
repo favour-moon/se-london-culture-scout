@@ -10,7 +10,9 @@ const fs=require('node:fs');fs.mkdirSync('test-results',{recursive:true});
   await page.goto(base);await page.waitForFunction(()=>window.scoutReady);
   const info=await page.evaluate(()=>({cards:document.querySelectorAll('#cards article').length,media:document.querySelectorAll('#cards article .event-media').length,picks:document.querySelectorAll('.pick-item').length,pickMedia:document.querySelectorAll('.pick-item .event-media').length,overflow:document.documentElement.scrollWidth>innerWidth}));
   assert.equal(info.cards,info.media);assert(info.picks>0&&info.picks<=10);assert.equal(info.pickMedia,info.picks);assert.equal(info.overflow,false);
-  await page.locator('#editorPicks').scrollIntoViewIfNeeded();await page.screenshot({path:`test-results/${base.startsWith('https')?'live':'local'}-${width}.png`});
+  for(const img of await page.locator('#editorPicks img').all()){try{await img.scrollIntoViewIfNeeded()}catch{}}
+  await page.waitForFunction(()=>!document.querySelector('#editorPicks .has-photo:not(.photo-loaded)'),{},{timeout:30000});
+  await page.locator('#editorPicks').screenshot({path:`test-results/${base.startsWith('https')?'live':'local'}-${width}.png`});
   await page.getByLabel('Search events',{exact:true}).fill('jazz');assert(await page.locator('#cards .event-media').count()>0);
   await page.getByRole('button',{name:'Clear all filters',exact:true}).click();
   await page.getByRole('button',{name:'Suggest a two-stop culture day'}).click();assert.equal(await page.locator('#planResult .event-media').count(),2);
