@@ -52,6 +52,16 @@ for e in obj["events"]:
         continue
 if len(valid)<5:
     sys.exit(f"Only {len(valid)} valid events; refusing to replace last edition.")
+# Retain manually checked imagery only for the same event and venue. New
+# discoveries receive the shared category illustration until editorial review.
+previous = json.loads(Path("events.json").read_text(encoding="utf-8")) if Path("events.json").exists() else {}
+images = {(e.get("title"), e.get("venue")): e for e in previous.get("events", [])}
+for event in valid:
+    reviewed = images.get((event["title"], event["venue"]), {})
+    for field in ("imageUrl", "imageAlt", "imageKind", "imageCaption", "imageCredit", "imageSourceUrl", "imageVerifiedAt"):
+        if field in reviewed:
+            event[field] = reviewed[field]
+    event.setdefault("imageKind", "category")
 valid.sort(key=lambda x:x["date"])
 edition={"issue":"CULTURE SCOUT / "+today.strftime("%d %B %Y").upper(),"range":f"THREE WEEKS · {today.strftime('%d %b').upper()} – {end.strftime('%d %b %Y').upper()}","notice":"Research-generated weekly listings; check organiser pages for prices, ages and ticket availability before booking. Updated "+today.isoformat()+".","events":valid[:20]}
 Path("events.json").write_text(json.dumps(edition,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")

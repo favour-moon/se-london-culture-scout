@@ -24,14 +24,16 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python scripts/update_events.py
+      - name: Refresh illustrated HTML fallback
+        run: node scripts/build-static.js
       - name: Publish only if changed
         run: |
-          if git diff --quiet -- events.json; then
+          if git diff --quiet -- events.json index.html; then
             echo "No change to publish."
             exit 0
           fi
           git config user.name "culture-scout-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add events.json
+          git add events.json index.html
           git commit -m "Refresh verified Culture Scout event edition"
           git push

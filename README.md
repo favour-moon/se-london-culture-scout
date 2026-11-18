@@ -28,3 +28,10 @@ The launch edition includes source links and organiser pages but is **not a live
 
 ## Data structure
 The site fetches `events.json`. Each event contains `date`, `title`, `venue`, `area`, `category`, `price`, `url`, `description`, `note`, `family`, `featured`, and `sourceUrl`.
+
+## Event images
+All event surfaces use `event-media.js` and `event-media.css`: listings, weekly Top Ten, map listings/popups, After Dark, outing suggestions and archive. `node scripts/build-static.js` refreshes the saved cards and Top Ten, including when JavaScript or the feed is unavailable. The weekly workflow rebuilds that snapshot.
+
+Reviewed photos use `imageUrl`, `imageAlt`, `imageKind` (`event` or `venue`), `imageCaption`, `imageCredit`, `imageSourceUrl`, and `imageVerifiedAt`. Only select artwork linked to the exact event on the organiser page; never use a programme page’s default social image or an unrelated stock photo. Captions distinguish archive photography. Preserve photographer credits supplied by the organiser. External images remain hosted by their publishers.
+
+Missing, rejected or failed photos reveal a labelled, inline category illustration. It has no external dependency and also works in the saved HTML without JavaScript. Newly researched events receive that illustration until imagery has been checked; weekly refreshes preserve reviewed images for matching event titles and venues.

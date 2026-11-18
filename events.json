@@ -36,7 +36,10 @@
         "2026-12-07",
         "2027-01-04",
         "2027-01-11"
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Hokusai: Thirty-six Views of Mount Fuji",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "date": "2026-11-03",
@@ -70,7 +73,10 @@
         "2026-12-07",
         "2027-01-04",
         "2027-01-11"
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Charlie Mackesy: The Boy, the Mole, the Fox, the Horse...and You",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "date": "2026-11-16",
@@ -91,7 +97,14 @@
       "newThisEdition": true,
       "hiddenGem": false,
       "minAge": 12,
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/101031/Windows-into-the-Unseen.webp?v=1791304293",
+      "imageAlt": "A photo of an artwork print with text on it that reads calm down dear, and a good wife doesn't disagree with her master in public.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "Deptford Lounge",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/windows-into-the-unseen",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-dance-groove",
@@ -132,7 +145,14 @@
       "minAge": 12,
       "featured": false,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/26365/IMG_2234.webp?v=1791327657",
+      "imageAlt": "Two young dancers in a stage under spotlight. They are moving in sync and the audience is silhouetted in the foreground of the image.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/dance-groove",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-round-lights",
@@ -152,7 +172,14 @@
       "featured": false,
       "verifiedAt": "2026-11-15",
       "linkStatus": "details",
-      "scheduleUnverified": true
+      "scheduleUnverified": true,
+      "imageUrl": "https://brockleyjack.co.uk/wp-content/uploads/2026/06/Round.png",
+      "imageAlt": "Round Lights — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official production artwork",
+      "imageCredit": "Jack Studio Theatre",
+      "imageSourceUrl": "https://brockleyjack.co.uk/whats-on/theatre/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-11-15-free-creative-workshops-scripting",
@@ -170,7 +197,14 @@
       "family": true,
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
-      "startTime": "16:00"
+      "startTime": "16:00",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/103524/James-Presenting-Image.webp?v=1791314241",
+      "imageAlt": "A black and white photo of a young black man wearing a hoodie, holding headphones over his ears.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/caya-creative-workshops",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-11-15-club-bananas-festive-making-workshop",
@@ -188,7 +222,10 @@
       "family": false,
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
-      "startTime": "18:30"
+      "startTime": "18:30",
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Club Bananas: Festive Making Workshop",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "date": "2026-11-19",
@@ -211,7 +248,10 @@
       "minAge": null,
       "linkStatus": "details",
       "startTime": "18:30",
-      "endTime": "21:00"
+      "endTime": "21:00",
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Hokusai Paint and Sip",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "date": "2026-11-19",
@@ -254,7 +294,14 @@
           "startTime": "18:00",
           "endTime": "21:00"
         }
-      ]
+      ],
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/8731/rollerskating_ex1-56.webp?v=1791300288",
+      "imageAlt": "A blurry photo of two people wearing black, roller skating. There is blue and purple light surrounding them.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "Deptford Lounge",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/dl-roller-disco-2",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-20",
@@ -277,7 +324,14 @@
       "minAge": 16,
       "linkStatus": "details",
       "startTime": "20:00",
-      "endTime": "23:00"
+      "endTime": "23:00",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/62434/BPM@TheAlbany_bySuziCorker-43.webp?v=1791299395",
+      "imageAlt": "a group of DJS",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/bpm-nov-2026",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-21",
@@ -311,7 +365,14 @@
           "date": "2026-12-05",
           "startTime": "13:00"
         }
-      ]
+      ],
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/4272/jazz-saturday-aug-69-scaled.webp?v=1791301327",
+      "imageAlt": "A photo of a jazz band - pianist, drummer and double bassist - performing in the Albany cafe. They are performing on a small stage in front of a colourful mural, and there is a family sat on a table watching them.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/jazz-saturdays",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-21",
@@ -335,7 +396,14 @@
       "verdict": "An intriguing alternative to a conventional big-room comedy night.",
       "linkStatus": "details",
       "startTime": "20:00",
-      "endTime": "22:15"
+      "endTime": "22:15",
+      "imageUrl": "https://www.southlondontheatre.co.uk/wp-content/uploads/2026/07/Oct-Nov-2025-March-May-A-2026-event-posters-Good-Ship-Comedy-820x1024.png",
+      "imageAlt": "Good Ship Comedy featuring Angela Barnes — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official event artwork",
+      "imageCredit": "South London Theatre",
+      "imageSourceUrl": "https://www.southlondontheatre.co.uk/event/good-ship-comedy-featuring-angela-barnes/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-21",
@@ -359,7 +427,14 @@
       "verdict": "Atmospheric, adventurous music in a distinctive local setting.",
       "linkStatus": "details",
       "startTime": "20:00",
-      "endTime": "23:00"
+      "endTime": "23:00",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/7541/Charles-Hayward-Sound-is-Now-credit-Phil-Mackie.webp?v=1791304287",
+      "imageAlt": "A photo of a stage from above. On the stage are musicians playing the drums, keyboards and guitar. They are lit in pink and purple lighting.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/sound-is-now-autumn-2026",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-11-15-once-upon-a-time-revisited-stories-through-a-gender-lens",
@@ -377,7 +452,14 @@
       "family": true,
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
-      "startTime": "11:30"
+      "startTime": "11:30",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/122969/OnceuponatimeSHEroes.webp?v=1793189285",
+      "imageAlt": "A woven with a darker material body and a light wicker handle is filled with grey fur lined with a red fabric. The fur and fabric mix is mixed in the basket so it all seems to be a part of the same item. The basket is set on a white background.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "Deptford Lounge",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/sheroes-fairy-tale-event",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-24",
@@ -427,7 +509,10 @@
         }
       ],
       "startTime": "20:00",
-      "endTime": "22:15"
+      "endTime": "22:15",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Things I Know to Be True",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "2026-11-15-co-create-mixed-media-exploration",
@@ -444,7 +529,14 @@
       "minAge": 18,
       "family": false,
       "verifiedAt": "2026-11-15",
-      "newThisEdition": true
+      "newThisEdition": true,
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/27070/CAYA-workshops-cropped-for-web.webp?v=1791348340",
+      "imageAlt": "A close up photo of a black man leaning over a table, drawing. He is using a black marker pen to outline an illustration of a face, coloured in with blue, orange and yellow.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-28",
@@ -468,7 +560,10 @@
       "linkStatus": "details",
       "startTime": "12:00",
       "endTime": "16:00",
-      "scheduleUnverified": true
+      "scheduleUnverified": true,
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Japanese Woodblock Printmaking",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "date": "2026-11-28",
@@ -491,7 +586,14 @@
       "minAge": 0,
       "verdict": "A distinctive cultural encounter on your doorstep.",
       "linkStatus": "details",
-      "startTime": "12:00"
+      "startTime": "12:00",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/126776/Sophia-Newton-8mb-Autumn-2026-Pizza-Pitches.webp?v=1794581749",
+      "imageAlt": "Artist Sophia Newton smiling at a community event, wearing a black top and orange beaded necklace, with other attendees in the background under purple lighting.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/tales-tunes-of-urhobo-heritage",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-11-15-just-write-it-",
@@ -509,7 +611,14 @@
       "family": false,
       "verifiedAt": "2026-11-15",
       "newThisEdition": true,
-      "startTime": "18:30"
+      "startTime": "18:30",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/7260/Just-Write-It.webp?v=1791348340",
+      "imageAlt": "A photo of three women stood over a table, writing on large sheets of white paper. In the middle of the table are pens and a pile of books.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "Deptford Lounge",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/just-write-it-26",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "2026-11-15-kae-kurd-s-comedy-club",
@@ -526,7 +635,10 @@
       "minAge": 18,
       "family": false,
       "verifiedAt": "2026-11-15",
-      "newThisEdition": true
+      "newThisEdition": true,
+      "imageKind": "category",
+      "imageAlt": "Comedy illustration for Kae Kurd's Comedy Club",
+      "imageCaption": "Comedy illustration · event photo unavailable"
     },
     {
       "id": "2026-11-15-co-create-web-design-fundamentals",
@@ -543,7 +655,14 @@
       "minAge": 18,
       "family": false,
       "verifiedAt": "2026-11-15",
-      "newThisEdition": true
+      "newThisEdition": true,
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/27070/CAYA-workshops-cropped-for-web.webp?v=1791348340",
+      "imageAlt": "A close up photo of a black man leaning over a table, drawing. He is using a black marker pen to outline an illustration of a face, coloured in with blue, orange and yellow.",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "The Albany",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/co-create-workshops",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-12-06",
@@ -567,7 +686,14 @@
       "verdict": "An intriguing alternative to a conventional big-room comedy night.",
       "linkStatus": "details",
       "startTime": "11:00",
-      "endTime": "12:00"
+      "endTime": "12:00",
+      "imageUrl": "https://www.southlondontheatre.co.uk/wp-content/uploads/2026/09/Kids-Comedy-Event-Poster-Dec-2026_x-820x1024.png",
+      "imageAlt": "Madame Chandelier's Grand Theft Opera — Family Show — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official event artwork",
+      "imageCredit": "South London Theatre",
+      "imageSourceUrl": "https://www.southlondontheatre.co.uk/event/kids-comedy-dec-2026/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-12-08",
@@ -666,7 +792,14 @@
       ],
       "extraOpenDates": [
         "2026-12-30"
-      ]
+      ],
+      "imageUrl": "https://brockleyjack.co.uk/wp-content/uploads/2026/10/a-christmas-carol-v4.png",
+      "imageAlt": "A Christmas Carol — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official event artwork",
+      "imageCredit": "Jack Studio Theatre",
+      "imageSourceUrl": "https://brockleyjack.co.uk/jackstudio-entry/a-christmas-carol-js/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-12-10",
@@ -730,7 +863,10 @@
           "startTime": "14:30"
         }
       ],
-      "startTime": "20:00"
+      "startTime": "20:00",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for The Flint Street Nativity",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "date": "2026-12-12",
@@ -753,7 +889,14 @@
       "minAge": 0,
       "linkStatus": "details",
       "startTime": "12:00",
-      "endTime": "15:00"
+      "endTime": "15:00",
+      "imageUrl": "https://cdn.thealbany.org.uk/uploads/images/_transforms/_landscape_16_9_s/95902/A7405800.webp?v=1791302696",
+      "imageAlt": "A child roller skating",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s event image",
+      "imageCredit": "Deptford Lounge",
+      "imageSourceUrl": "https://www.thealbany.org.uk/events/kids-roller-disco",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-echoes-of-nan-adriano-adewale",
@@ -775,7 +918,14 @@
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
       "linkStatus": "details",
-      "startTime": "20:00"
+      "startTime": "20:00",
+      "imageUrl": "https://www.jazzlive.co.uk/assets/img/19nov26.jpg",
+      "imageAlt": "Echoes of Naná — Adriano Adewale — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Jazzlive programme image",
+      "imageCredit": "Jazzlive at the Crypt",
+      "imageSourceUrl": "https://www.jazzlive.co.uk/guide.html",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-smiodair",
@@ -797,7 +947,14 @@
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
       "linkStatus": "details",
-      "startTime": "20:00"
+      "startTime": "20:00",
+      "imageUrl": "https://www.jazzlive.co.uk/assets/img/20nov26.jpg",
+      "imageAlt": "Smiodair — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Jazzlive programme image",
+      "imageCredit": "Jazzlive at the Crypt",
+      "imageSourceUrl": "https://www.jazzlive.co.uk/guide.html",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-grupo-martillada",
@@ -819,7 +976,14 @@
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
       "linkStatus": "details",
-      "startTime": "20:00"
+      "startTime": "20:00",
+      "imageUrl": "https://www.jazzlive.co.uk/assets/img/27nov26.jpg",
+      "imageAlt": "Grupo Martillada — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Jazzlive programme image",
+      "imageCredit": "Jazzlive at the Crypt",
+      "imageSourceUrl": "https://www.jazzlive.co.uk/guide.html",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-laura-impallomeni-quintet",
@@ -841,7 +1005,14 @@
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
       "linkStatus": "details",
-      "startTime": "20:00"
+      "startTime": "20:00",
+      "imageUrl": "https://www.jazzlive.co.uk/assets/img/04dec26.jpg",
+      "imageAlt": "Laura Impallomeni Quintet — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Jazzlive programme image",
+      "imageCredit": "Jazzlive at the Crypt",
+      "imageSourceUrl": "https://www.jazzlive.co.uk/guide.html",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-hathaleen-the-unexpected-journey-to-palestine",
@@ -862,7 +1033,14 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://greenwichtheatre.org.uk/wp-content/uploads/2026/10/hathaleenweb.png",
+      "imageAlt": "Hathaleen: The Unexpected Journey to Palestine — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official production artwork",
+      "imageCredit": "Greenwich Theatre",
+      "imageSourceUrl": "https://greenwichtheatre.org.uk/whats-on/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-deptford-scratch-global-majority-spotlight",
@@ -883,7 +1061,14 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://greenwichtheatre.org.uk/wp-content/uploads/2026/11/deptweb.png",
+      "imageAlt": "Deptford Scratch: Global Majority Spotlight — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official production artwork",
+      "imageCredit": "Greenwich Theatre",
+      "imageSourceUrl": "https://greenwichtheatre.org.uk/whats-on/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-the-tale-of-the-loneliest-whale",
@@ -904,7 +1089,10 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for The Tale of the Loneliest Whale",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "scout-jack-and-the-beanstalk",
@@ -925,7 +1113,14 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://greenwichtheatre.org.uk/wp-content/uploads/2026/07/jackweb.png",
+      "imageAlt": "Jack and the Beanstalk — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official production artwork",
+      "imageCredit": "Greenwich Theatre",
+      "imageSourceUrl": "https://greenwichtheatre.org.uk/whats-on/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-babycham",
@@ -946,7 +1141,14 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageUrl": "https://greenwichtheatre.org.uk/wp-content/uploads/2026/11/babychamweb.png",
+      "imageAlt": "Babycham — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official production artwork",
+      "imageCredit": "Greenwich Theatre",
+      "imageSourceUrl": "https://greenwichtheatre.org.uk/whats-on/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "scout-mr-charles-dickens-presents-a-christmas-carol",
@@ -975,7 +1177,10 @@
         {
           "date": "2026-12-21"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Mr Charles Dickens presents A Christmas Carol",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "scout-the-blackout-thursday-comedy",
@@ -1000,7 +1205,10 @@
       "startTime": "20:00",
       "openDays": [
         4
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Comedy illustration for The Blackout — Thursday comedy",
+      "imageCaption": "Comedy illustration · event photo unavailable"
     },
     {
       "id": "scout-the-friday-night-show-",
@@ -1025,7 +1233,10 @@
       "startTime": "19:30",
       "openDays": [
         5
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Comedy illustration for The Friday Night Show!",
+      "imageCaption": "Comedy illustration · event photo unavailable"
     },
     {
       "id": "scout-saturday-night-comedy",
@@ -1050,7 +1261,10 @@
       "startTime": "19:30",
       "openDays": [
         6
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Comedy illustration for Saturday Night Comedy",
+      "imageCaption": "Comedy illustration · event photo unavailable"
     },
     {
       "id": "scout-pulse-in-the-dark-beneath-cutty-sark",
@@ -1090,7 +1304,10 @@
           "date": "2026-11-28",
           "startTime": "20:30"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for PULSE — in the dark beneath Cutty Sark",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "scout-swaying-in-the-wind-fr-d-rick-yvan-manuel-gay",
@@ -1111,7 +1328,10 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Swaying in the Wind — Frédérick Yvan Manuel Gay",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "id": "scout-the-gingerbread-man",
@@ -1132,7 +1352,10 @@
       "hiddenGem": true,
       "newThisEdition": true,
       "verifiedAt": "2026-11-15",
-      "linkStatus": "details"
+      "linkStatus": "details",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for The Gingerbread Man",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "scout-come-n-grow",
@@ -1156,7 +1379,10 @@
       "linkStatus": "details",
       "openDays": [
         5
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Come 'n' Grow",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-greenwich-market-lantern-parade-christmas-lights",
@@ -1174,7 +1400,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "startTime": "16:00"
+      "startTime": "16:00",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Greenwich Market Lantern Parade & Christmas Lights",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-queen-s-house-ice-rink",
@@ -1194,7 +1423,14 @@
       "addedAt": "2026-11-17",
       "endDate": "2027-01-03",
       "scheduleUnverified": true,
-      "location": "Queen's House Grounds, Romney Road, Greenwich, London SE10 9NF"
+      "location": "Queen's House Grounds, Romney Road, Greenwich, London SE10 9NF",
+      "imageUrl": "https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/2025-12/TheQueensHouseIceRink_Overs_1219_0.JPG.webp?itok=rvPGQKN0",
+      "imageAlt": "Queen's House Ice Rink — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Queen’s House Ice Rink · organiser’s archive photo",
+      "imageCredit": "Royal Museums Greenwich",
+      "imageSourceUrl": "https://www.rmg.co.uk/queens-house/attractions/queens-house-ice-rink",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-three-inch-fools-a-christmas-carol",
@@ -1213,7 +1449,10 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "endDate": "2026-11-21",
-      "startTime": "19:30"
+      "startTime": "19:30",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Three Inch Fools: A Christmas Carol",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "xmas26-festive-printmaking-with-alex-booker",
@@ -1238,7 +1477,10 @@
         {
           "date": "2026-11-29"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Festive Printmaking with Alex Booker",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "id": "xmas26-wreath-making-with-floral-evolution",
@@ -1255,7 +1497,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Wreath Making with Floral Evolution",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "id": "xmas26-oishi-japanese-supper-club",
@@ -1272,7 +1517,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Oishi! Japanese Supper Club",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-once-upon-a-mattress",
@@ -1290,7 +1538,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "endDate": "2026-11-28"
+      "endDate": "2026-11-28",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Once Upon a Mattress",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "xmas26-so-last-century-vintage-fair-at-goldsmiths",
@@ -1307,7 +1558,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for So Last Century Vintage Fair at Goldsmiths",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-blackheath-lights-up-for-christmas",
@@ -1325,7 +1579,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "startTime": "16:30"
+      "startTime": "16:30",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Blackheath Lights Up for Christmas",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-charlton-house-christmas-fair",
@@ -1344,7 +1601,14 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "endDate": "2026-12-06",
-      "startTime": "11:00"
+      "startTime": "11:00",
+      "imageUrl": "https://www.greenwichheritage.org/wp-content/uploads/2026/10/Charlton-House-Gardens-Christmas-Fair-December-5th-and-6th-SAVE-THE-DATE-1024x536.png",
+      "imageAlt": "Charlton House Christmas Fair — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Official event artwork",
+      "imageCredit": "Charlton House",
+      "imageSourceUrl": "https://www.greenwichheritage.org/events/charlton-house-gardens-christmas-fair-2/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-cockpit-winter-open-studios",
@@ -1363,7 +1627,14 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "endDate": "2026-12-06",
-      "location": "Cockpit Deptford, 18–22 Creekside, London SE8 3DZ"
+      "location": "Cockpit Deptford, 18–22 Creekside, London SE8 3DZ",
+      "imageUrl": "https://cockpitstudios.org/wp-content/uploads/2026/09/sofi-chetrar-ca-deptford-winter-2025-203.jpg",
+      "imageAlt": "Cockpit Winter Open Studios — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Cockpit Deptford · previous open studios",
+      "imageCredit": "Cockpit",
+      "imageSourceUrl": "https://cockpitstudios.org/whats-on/winter-2026-deptford/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-so-last-century-christmas-vintage-market",
@@ -1382,7 +1653,14 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "endDate": "2026-12-06",
-      "location": "Dulwich Picture Gallery, Gallery Road, London SE21 7AD"
+      "location": "Dulwich Picture Gallery, Gallery Road, London SE21 7AD",
+      "imageUrl": "https://static1.squarespace.com/static/5b3219dce2ccd16210611709/5b4484e1f950b7ecba6d58a9/6ae4edc46a18127242b9fdfd/1793395854200/IMG_5316.jpeg?format=1500w",
+      "imageAlt": "So Last Century Christmas Vintage Market — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Organiser’s market image",
+      "imageCredit": "So Last Century",
+      "imageSourceUrl": "https://www.solastcenturyfair.co.uk/next-events/dulwich-picture-gallery-2025-december-lspsp",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-lewisham-community-zine-fair",
@@ -1399,7 +1677,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Lewisham Community Zine Fair",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-salad-days-christmas-market",
@@ -1416,7 +1697,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Salad Days Christmas Market",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-blackheath-goes-gospel-christmas-concert",
@@ -1434,7 +1718,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "startTime": "19:30"
+      "startTime": "19:30",
+      "imageKind": "category",
+      "imageAlt": "Music illustration for Blackheath Goes Gospel Christmas Concert",
+      "imageCaption": "Music illustration · event photo unavailable"
     },
     {
       "id": "xmas26-dulwich-picture-gallery-christmas-concert",
@@ -1451,7 +1738,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Music illustration for Dulwich Picture Gallery Christmas Concert",
+      "imageCaption": "Music illustration · event photo unavailable"
     },
     {
       "id": "xmas26-greenmatthews-midwinter-revels",
@@ -1470,7 +1760,14 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "location": "Blackheath Halls, 23 Lee Road, Blackheath, London SE3 9RQ",
-      "startTime": "14:30"
+      "startTime": "14:30",
+      "imageUrl": "https://www.visitgreenwich.org.uk/imageresizer/?image=%2Fdmsimgs%2FMWR_landscape_3_lo-res_1440059567.jpg&action=OpenGraph",
+      "imageAlt": "GreenMatthews Midwinter Revels — organiser’s promotional image",
+      "imageKind": "event",
+      "imageCaption": "Event image",
+      "imageCredit": "Visit Greenwich / GreenMatthews",
+      "imageSourceUrl": "https://www.visitgreenwich.org.uk/whats-on/green-matthews-midwinter-revels-p2540481",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-blackheath-halls-christmas-concert",
@@ -1488,7 +1785,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "startTime": "19:30"
+      "startTime": "19:30",
+      "imageKind": "category",
+      "imageAlt": "Music illustration for Blackheath Halls Christmas Concert",
+      "imageCaption": "Music illustration · event photo unavailable"
     },
     {
       "id": "xmas26-christmas-carol-concert-in-the-chapel",
@@ -1513,7 +1813,10 @@
         {
           "date": "2026-12-14"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Music illustration for Christmas Carol Concert in the Chapel",
+      "imageCaption": "Music illustration · event photo unavailable"
     },
     {
       "id": "xmas26-winter-solstice-family-festival",
@@ -1532,7 +1835,14 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "startTime": "10:30",
-      "location": "National Maritime Museum, Romney Road, Greenwich, London SE10 9NF"
+      "location": "National Maritime Museum, Romney Road, Greenwich, London SE10 9NF",
+      "imageUrl": "https://www.rmg.co.uk/sites/default/files/styles/max_width_1440/public/2026-09/Pic%203.jpg.webp?itok=UM_KHXbw",
+      "imageAlt": "Woman and child playing",
+      "imageKind": "event",
+      "imageCaption": "Event image",
+      "imageCredit": "Royal Museums Greenwich",
+      "imageSourceUrl": "https://www.rmg.co.uk/whats-on/national-maritime-museum/winter-solstice-festival",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-the-nutcracker-at-blackheath-halls",
@@ -1557,7 +1867,10 @@
         {
           "date": "2026-12-23"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for The Nutcracker at Blackheath Halls",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "xmas26-elves-and-the-jingle-bell-ball",
@@ -1575,7 +1888,10 @@
       "family": true,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "endDate": "2026-12-23"
+      "endDate": "2026-12-23",
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Elves and the Jingle Bell Ball",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "xmas26-disney-on-ice-discover-the-magic",
@@ -1622,7 +1938,10 @@
         {
           "date": "2027-01-03"
         }
-      ]
+      ],
+      "imageKind": "category",
+      "imageAlt": "Theatre illustration for Disney On Ice: Discover the Magic",
+      "imageCaption": "Theatre illustration · event photo unavailable"
     },
     {
       "id": "xmas26-christmas-fair-at-eltham-palace",
@@ -1640,7 +1959,10 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "endDate": "2026-12-06"
+      "endDate": "2026-12-06",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Christmas Fair at Eltham Palace",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-greenwich-peninsula-winter-market",
@@ -1659,7 +1981,10 @@
       "linkStatus": "details",
       "addedAt": "2026-11-17",
       "endDate": "2027-01-03",
-      "scheduleUnverified": true
+      "scheduleUnverified": true,
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Greenwich Peninsula Winter Market",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-christmas-bauble-workshop",
@@ -1676,7 +2001,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Art illustration for Christmas Bauble Workshop",
+      "imageCaption": "Art illustration · event photo unavailable"
     },
     {
       "id": "xmas26-set-social-s-last-last-christmas-market",
@@ -1693,7 +2021,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for SET Social's Last Last Christmas Market",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-sid-s-friends-christmas-market",
@@ -1710,7 +2041,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Sid's & Friends Christmas Market",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     },
     {
       "id": "xmas26-peckham-arches-christmas-market",
@@ -1727,7 +2061,10 @@
       "featured": false,
       "family": false,
       "linkStatus": "details",
-      "addedAt": "2026-11-17"
+      "addedAt": "2026-11-17",
+      "imageKind": "category",
+      "imageAlt": "Oddities illustration for Peckham Arches Christmas Market",
+      "imageCaption": "Oddities illustration · event photo unavailable"
     }
   ],
   "venues": {

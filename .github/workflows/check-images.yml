@@ -1,0 +1,30 @@
+name: Check event images and responsive layouts
+on:
+  push:
+    branches: [main]
+    paths: ['*.html', '*.js', '*.css', '*.json', 'scripts/**', 'tests/**', '.github/workflows/check-images.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  browser-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser test tools
+        run: |
+          npm install --no-save --no-package-lock playwright
+          npx playwright install --with-deps chromium
+      - name: Check desktop, mobile, archive and fallbacks
+        run: |
+          python3 -m http.server 8765 &
+          node tests/images.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: responsive-image-screenshots
+          path: test-results/
