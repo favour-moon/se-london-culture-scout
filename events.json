@@ -37,9 +37,13 @@
         "2027-01-04",
         "2027-01-11"
       ],
-      "imageKind": "category",
-      "imageAlt": "Art illustration for Hokusai: Thirty-six Views of Mount Fuji",
-      "imageCaption": "Art illustration · event photo unavailable"
+      "imageKind": "event",
+      "imageAlt": "Hokusai’s The Great Wave off Kanagawa — exhibition artwork",
+      "imageCaption": "Gallery’s event image",
+      "imageUrl": "https://assets.dulwich-gallery.substrakt.net/images/Hokusai_great_wave.9404bdc2.fill-2000x1000.png",
+      "imageCredit": "Dulwich Picture Gallery",
+      "imageSourceUrl": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-03",
@@ -249,9 +253,13 @@
       "linkStatus": "details",
       "startTime": "18:30",
       "endTime": "21:00",
-      "imageKind": "category",
-      "imageAlt": "Art illustration for Hokusai Paint and Sip",
-      "imageCaption": "Art illustration · event photo unavailable"
+      "imageKind": "event",
+      "imageAlt": "Person seated at an easel holding a glass — Hokusai Paint and Sip",
+      "imageCaption": "Gallery’s event image",
+      "imageUrl": "https://assets.dulwich-gallery.substrakt.net/images/WhatsApp_Image_2026-08-06_at_15.24.58.width-1000.jpg",
+      "imageCredit": "Dulwich Picture Gallery",
+      "imageSourceUrl": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-paint-and-sip/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-19",
@@ -561,9 +569,13 @@
       "startTime": "12:00",
       "endTime": "16:00",
       "scheduleUnverified": true,
-      "imageKind": "category",
-      "imageAlt": "Art illustration for Japanese Woodblock Printmaking",
-      "imageCaption": "Art illustration · event photo unavailable"
+      "imageKind": "event",
+      "imageAlt": "Hokusai print of people flying kites above a traditional Japanese building",
+      "imageCaption": "Gallery’s event image",
+      "imageUrl": "https://assets.dulwich-gallery.substrakt.net/images/Hokusai_kites.2e16d0ba.fill-960x600.png",
+      "imageCredit": "Dulwich Picture Gallery",
+      "imageSourceUrl": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-paint-and-sip/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "date": "2026-11-28",
@@ -1478,9 +1490,13 @@
           "date": "2026-11-29"
         }
       ],
-      "imageKind": "category",
-      "imageAlt": "Art illustration for Festive Printmaking with Alex Booker",
-      "imageCaption": "Art illustration · event photo unavailable"
+      "imageKind": "event",
+      "imageAlt": "Christmas tree prints with a mince pie, mulled wine and printing equipment",
+      "imageCaption": "Gallery’s event image",
+      "imageUrl": "https://assets.dulwich-gallery.substrakt.net/images/image002.2e16d0ba.fill-960x600.jpg",
+      "imageCredit": "Dulwich Picture Gallery",
+      "imageSourceUrl": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-paint-and-sip/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-wreath-making-with-floral-evolution",
@@ -1498,9 +1514,13 @@
       "family": false,
       "linkStatus": "details",
       "addedAt": "2026-11-17",
-      "imageKind": "category",
-      "imageAlt": "Art illustration for Wreath Making with Floral Evolution",
-      "imageCaption": "Art illustration · event photo unavailable"
+      "imageKind": "event",
+      "imageAlt": "A floral Christmas wreath with conifers and dried fruit",
+      "imageCaption": "Gallery’s event image",
+      "imageUrl": "https://assets.dulwich-gallery.substrakt.net/images/IMG_8189.2e16d0ba.fill-960x600.jpg",
+      "imageCredit": "Dulwich Picture Gallery",
+      "imageSourceUrl": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-paint-and-sip/",
+      "imageVerifiedAt": "2026-11-18"
     },
     {
       "id": "xmas26-oishi-japanese-supper-club",
