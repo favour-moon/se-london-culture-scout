@@ -54,7 +54,7 @@ function calendarDates(e){
   return {start:e.date.replace(/-/g,''),finish:finish.toISOString().slice(0,10).replace(/-/g,''),timed:false};
 }
 function eventLink(e){
-  const label=e.linkStatus==='unverified'?'Organiser programme · unconfirmed':e.linkStatus==='link-unverified'?'Event page · link unconfirmed':e.linkStatus==='details'?'Event details':'Tickets';
+  const label=e.linkStatus==='unverified'?'Organiser programme · unconfirmed':e.linkStatus==='link-unverified'?'Event page · link unconfirmed':e.linkStatus==='programme'?'Programme listing (not direct booking)':e.linkStatus==='details'?'Event details':'Tickets';
   return '<a target="_blank" rel="noopener noreferrer" href="'+esc(safeUrl(e.url))+'">'+label+' ↗</a>';
 }
 function directions(e,name=e.location||e.venue){
