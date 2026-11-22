@@ -570,7 +570,10 @@
       "hiddenGem": false,
       "linkStatus": "details",
       "verifiedAt": "2026-11-20",
-      "newThisEdition": false
+      "newThisEdition": false,
+      "imageKind": "category",
+      "imageAlt": "Music illustration for PULSE: In the Dark at Cutty Sark",
+      "imageCaption": "Category illustration · event photo unavailable"
     },
     {
       "id": "scout-20261122-afternoon-frequencies",
